@@ -9,7 +9,7 @@ a. Right triangle.
 
 b. Hollowed "square" (by this I mean same number of asterisks on all sides, but it might not look like a square. If you can make it look like a square, even better).
 
-Challenge: Isosceles triangle.
+c: Isosceles triangle.
 
 ## Specifications
 
